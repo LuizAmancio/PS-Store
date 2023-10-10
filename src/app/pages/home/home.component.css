@@ -7,6 +7,6 @@
     justify-content: space-around;
     align-items: baseline; /* alinha pelo fim do conteúdo */
     flex-wrap: wrap; /* quando atingir o limite do container joga pra proxima linha */
-    border: 1px solid pink;
-    margin-top: 5rem;
+
+    margin-top: 2rem;
 }

@@ -7,7 +7,7 @@
 
     display: flex;
     overflow: hidden; /* esconde o que ta fora da caixa */
-    margin-top: 1rem;
+    margin-top: 2rem;
 }
 
 .card_img{
